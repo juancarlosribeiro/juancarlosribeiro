@@ -1,4 +1,4 @@
-### Bem-vindo ao meu perfil, me chamo Juan, sou desenvolvedor e apaixonado pela área de TI.
+### Welcome to my profile, my name is Juan, I am a developer and passionate about the IT area.
 
 <div>
   <a href="https://github.com/juancarlosribeiro">
