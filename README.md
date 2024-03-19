@@ -1,13 +1,9 @@
-### Bem-vindo ao meu perfil, me chamo Gustavo, sou desenvolvedor e apaixonado pela área de TI.
-
-- 🔭 Atualmente trabalho como desenvolvedor front-end no Venturus.
-- 🌱 Estou estudando conceitos e melhores formas de aplicar o NextJS.
-- 📫 Esse é meu email para contato: gustavo2892@gmail.com
+### Bem-vindo ao meu perfil, me chamo Juan, sou desenvolvedor e apaixonado pela área de TI.
 
 <div>
   <a href="https://github.com/gustavo2892">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo2892&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo2892&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juancarlosribeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancarlosribeiro&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
