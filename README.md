@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/juancarlosribeiro">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderjulio&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juancarlosribeiro&show_icons=true&theme=tokyonight)
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancarlosribeiro&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
