@@ -1,4 +1,9 @@
-### Welcome to my profile, my name is Juan, I am a developer and passionate about the IT area.
+### Hello! I am Juan Carlos ✋
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/juan-carlos-ribeiro-fiuza/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+)](https://www.linkedin.com/in/juan-carlos-ribeiro-fiuza/)
+
 
 <div>
   <a href="https://github.com/juancarlosribeiro">
