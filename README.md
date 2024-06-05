@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=54B8FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=54B8FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Juan+Carlos;I'm+19+years+old;I+am+from+Brasília,+DF;I+study+computer+science;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=54B8FF&size=45&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Juan+Carlos;I'm+19+years+old;I+am+from+Brasília,+DF;I+study+computer+science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=juancarlosribeiro&show_icons=true&count_private=true&hide_border=true&title_color=54B8FF&icon_color=54B8FF&text_color=FFFFFF&bg_color=0d1117" alt="Juan Carlos github stats" /> 
