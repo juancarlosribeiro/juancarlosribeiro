@@ -1,8 +1,9 @@
 ### Hello! I am Juan Carlos ✋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/juan-carlos-ribeiro-fiuza/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juan.carlos_dev/) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](juan.carlos.dev@outlook.com)
+)](https://www.linkedin.com/in/juan-carlos-ribeiro-fiuza/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juan.carlos_dev/) 
 
+#Contact Me: juan.carlos.dev@outlook.com.br
 
 <div>
   <a href="https://github.com/juancarlosribeiro">
