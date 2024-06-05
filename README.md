@@ -13,7 +13,7 @@
 
 ## Contact Me: juan.carlos.dev@outlook.com.br
 
-## Tecnologies 
+## Tecnologies used by me:
 
 <div style= "display: inline_block"><br/>
 
