@@ -9,7 +9,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juancarlosribeiro&bg_color=131112&color=54B8FF&line=54B8FF&point=f8f8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
 <div align="center">  
 <a href="https://www.instagram.com/juan.carlos_dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-F8F8FF?style=for-the-badge&logo=instagram&logoColor=black"</a>
  <a href="mailto:juan.carlos.dev@outlook.com"><img src="https://img.shields.io/badge/Gmail-F8F8FF?style=for-the-badge&logo=outlook&logoColor=black"</a>
@@ -28,6 +27,5 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=54B8FF&height=120&section=footer"/>
