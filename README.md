@@ -10,22 +10,22 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juancarlosribeiro&bg_color=131112&color=54B8FF&line=54B8FF&point=f8f8ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-<a href="https://www.instagram.com/juan.carlos_dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-F8F8FF?style=for-the-badge&logo=instagram&logoColor=black"</a>
- <a href="mailto:juan.carlos.dev@outlook.com"><img src="https://img.shields.io/badge/Gmail-F8F8FF?style=for-the-badge&logo=outlook&logoColor=black"</a>
+<a href="https://www.instagram.com/juan.carlos_dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+ <a href="mailto:juan.carlos.dev@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"</a>
 </div> 
 
 ### Knowledge:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Studying in this moment:
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Tools:
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=54B8FF&height=120&section=footer"/>
